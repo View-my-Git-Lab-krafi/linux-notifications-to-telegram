@@ -53,6 +53,9 @@ nano run.sh #make sure nano is installed on your linux system
 
 ```
 sudo chmod +x run.sh
+sudo chmod +x i3_autostart.sh 
+
+
 
 ```
 
