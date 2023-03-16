@@ -52,7 +52,7 @@ nano run.sh #make sure nano is installed on your linux system
 5. For keep the script executable, just use command “:
 
 ```
-chmod +x run.sh
+sudo chmod +x run.sh
 
 ```
 
