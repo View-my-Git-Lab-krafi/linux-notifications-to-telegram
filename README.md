@@ -17,6 +17,12 @@ This script requires the following dependencies to be installed:
 ## Usage
 
 Follow these instructions to run this script: 
+note: its better to do all of this thing inside your ~/.local/bin/ So, 
+
+```
+cd ~/.local/bin/
+```
+
 1. Clone the repo 
 
 ```
