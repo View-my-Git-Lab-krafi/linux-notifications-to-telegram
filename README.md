@@ -1,7 +1,7 @@
 &nbsp;
 <p align="center">
   <a href="https://ghost.org/#gh-light-mode-only" target="_blank">
-    <img src="https://images.unsplash.com/photo-1636743091340-af4ee8147080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHRlbGVncmFtfGVufDB8fHx8MTY3OTEyOTM4OA&ixlib=rb-4.0.3&q=80&w=1200" alt="Ghost" width="200px">
+    <img src="https://images.unsplash.com/photo-1636743091340-af4ee8147080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHRlbGVncmFtfGVufDB8fHx8MTY3OTEyOTM4OA&ixlib=rb-4.0.3&q=80&w=1200" alt="Ghost" width="900px">
   </a>
 </p>
 &nbsp;
