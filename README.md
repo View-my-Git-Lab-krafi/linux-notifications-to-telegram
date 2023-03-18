@@ -2,6 +2,9 @@
 
 This script is a Bash script that continuously monitors the D-Bus system message bus for notifications and sends them to a Telegram chat using the Telegram Bot API.
 
+## Dont forget to Read my artical about this project.
+[https://krafi.info/how-to-get-desktop-notifications-on-telegram-using-bash-script/index.html](https://krafi.info/how-to-get-desktop-notifications-on-telegram-using-bash-script/index.html)
+
 ## Disclaimer
 
 **Please keep in mind that this script is offered "as is," with no guarantee or support.
