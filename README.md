@@ -1,7 +1,7 @@
 &nbsp;
 <p align="center">
-  <a href="https://krafi.info/how-to-get-desktop-notifications-on-telegram-using-bash-script/index.html" target="_blank">
-    <img src="https://images.unsplash.com/photo-1636743091340-af4ee8147080?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fHRlbGVncmFtfGVufDB8fHx8MTY3OTEyOTM4OA&ixlib=rb-4.0.3&q=80&w=1200" alt="Ghost" width="900px">
+  <a href="https://krafi.info/chatgpt-is-now-on-linux-terminal/index.html" target="_blank">
+    <img src="https://images.unsplash.com/photo-1675865254433-6ba341f0f00b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDE2fHwlMjBjaGF0Z3B0fGVufDB8fHx8MTY3OTE0OTM5Nw&ixlib=rb-4.0.3&q=80&w=960" alt="Ghost" width="900px">
   </a>
 </p>
 &nbsp;
