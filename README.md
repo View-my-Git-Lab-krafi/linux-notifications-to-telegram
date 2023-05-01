@@ -1,3 +1,5 @@
+** Please note that this project is maintained on GitLab, and you can find the latest version of the code, as well as updates and bug fixes, at [https://gitlab.com/krafi/linux-notifications-to-telegram.git](https://gitlab.com/krafi/linux-notifications-to-telegram.git) If you encounter any issues while using the application, we encourage you to report them on the GitLab repository so that we can address them as soon as possible. **
+
 &nbsp;
 <p align="center">
   <a href="https://krafi.info/how-to-get-desktop-notifications-on-telegram-using-bash-script/index.html" target="_blank">
